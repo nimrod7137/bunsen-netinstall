@@ -33,7 +33,7 @@ feh
 file-roller
 firefox-esr
 fonts-cantarell
-fonts-droid
+fonts-droid-fallback
 fonts-noto
 fonts-noto-mono
 fonts-noto-cjk
